@@ -52,3 +52,13 @@ letter-spacing: 0.02em;
 
 color: #2196F3;
 }
+
+.mail2{font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: rgba(255, 255, 255, 0.6);
+}

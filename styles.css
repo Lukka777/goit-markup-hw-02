@@ -1,7 +1,7 @@
 footer {
   background-color: #2f303a;
 }
-.brand-link1 {
+.brand-link {
   font-family: "Raleway";
   font-style: normal;
   font-weight: bold;
@@ -9,7 +9,7 @@ footer {
   line-height: 31px;
   color: #2196f3;
 }
-.brand-link2 {
+.brand-link-upper {
   font-family: "Raleway";
   font-style: normal;
   font-weight: bold;
@@ -17,7 +17,7 @@ footer {
   line-height: 31px;
   color: black;
 }
-.brand-link3 {
+.brand-link-footer {
   font-family: "Raleway";
   font-style: normal;
   font-weight: bold;
@@ -43,7 +43,8 @@ color: #212121;
 }
 font-family: "Roboto", sans-serif;
 
-.mail{font-family: "Roboto";
+.mail{
+  font-family: "Roboto";
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
@@ -53,12 +54,142 @@ letter-spacing: 0.02em;
 color: #2196F3;
 }
 
-.mail2{font-family: "Roboto";
+.phone-upper{
+  font-family: "Roboto";
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
+color:#757575;
+}
+.letter {
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: white;
+}
+ul {
+  list-style:none ;
+}
+.header{
+  font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: gray;
+}
+.about-logo{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 
+color: #212121;
+}
+.bout-text{
+ font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+
+}
+.portfolio-link{
+  color: black ;
+}
+.portfolio-logo{
+  font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.portfolio-text{
+ font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0.03em;
+color:black;
+}
+.portfolio-word{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.label{
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: black;
+}
+.phone-lower{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
+}
+.banner{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.developper{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.4);
+}
+.logo-about{
+  font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.text-selection{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
 }
